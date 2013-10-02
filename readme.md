@@ -8,7 +8,7 @@ an example shows you how to use input module with readline.
 * input module
 * cli promb
 * command history
-* command repeat
+* repeat command 
 
 ## compile
 
@@ -18,7 +18,5 @@ an example shows you how to use input module with readline.
 
 	./input-module
 
-# detail
-
-
+## detail description
 
